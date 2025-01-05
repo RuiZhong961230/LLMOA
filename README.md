@@ -1,7 +1,7 @@
 # LLMOA  
 
 LLMOA: A novel large language model assisted hyper-heuristic optimization algorithm  
-Necessary packages: opfunu, scipy, and google.generativeai.
+
 
 ## Highlights  
 • We propose a novel large language model assisted hyper-heuristic optimization algorithm.  
@@ -23,3 +23,6 @@ issn = {1474-0346},
 doi = {https://doi.org/10.1016/j.aei.2024.103042 },  
 author = {Rui Zhong and Abdelazim G. Hussien and Jun Yu and Masaharu Munetomo},  
 }
+
+## Datasets and Libraries
+CEC benchmarks are provided by the opfunu library. Gemini is provided by the google.generativeai library.
