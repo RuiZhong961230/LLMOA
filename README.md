@@ -25,4 +25,4 @@ author = {Rui Zhong and Abdelazim G. Hussien and Jun Yu and Masaharu Munetomo},
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library. Gemini is provided by the google.generativeai library.
+CEC benchmarks are provided by the opfunu library and gemini-pro API is provided by the google.generativeai library.
