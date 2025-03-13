@@ -25,4 +25,7 @@ author = {Rui Zhong and Abdelazim G. Hussien and Jun Yu and Masaharu Munetomo},
 }
 
 ## Datasets and Libraries
-CEC benchmarks are provided by the opfunu library, engineering problems are provided by the enoppy library, and gemini-pro API is provided by the google.generativeai library.
+CEC benchmarks and Engineering problems are provided by opfunu==1.0.0 and enoppy==0.1.1 libraries, respectively. gemini-pro API is provided by the google.generativeai==0.0.1 library.
+
+## Contact
+If you have any questions, please don't hesitate to contact zhongrui[at]iic.hokudai.ac.jp
